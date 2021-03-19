@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>K.KenShiNN</string>
+				<string>com.StudioIwashita.StampRallyApp001</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>KenShiNN</string>
+				<string>StampRallyApp01</string>
 			</dict>
 		</dict>
 	</array>
